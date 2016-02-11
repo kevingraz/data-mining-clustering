@@ -1,0 +1,20 @@
+README
+
+Instructions for running Assignment 3: Clustering
+
+K-MEANS ALGORITHM
+
+The k-means algorithm is implemented in the k_means.m function.
+
+To test the k-means function on the given data sets (Iris and YeastGene), 
+open the iris_k_means.m and yeast_gene_k_means.m files in MATLAB and run 
+them seperately. Plots for both data sets will appear.
+
+
+AGGLOMERATIVE ALGORITHM
+
+The agglomerative algorithm is implemented in the agglomerative.m function.
+
+To test the agglomerative function on the given data sets (Example and Utilities),
+open the example_agglomerative.m and utilities_agglomerative.m files in MATLAB
+and run them separately. Merger data is displayed in the command window.
